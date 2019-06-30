@@ -1,5 +1,5 @@
-def using_push
-    colors_in_the_rainbow.push ( "violet" )
+def using_push(array)
+    array.push ( "violet" )
 end
   
 def using_uniq(array)
