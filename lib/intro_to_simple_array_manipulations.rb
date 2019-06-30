@@ -23,7 +23,7 @@ def shift_with_args(array)
 end
 
 def using_concat(array,string)
-  array.concat()
+  array.concat("sports cars", "flatiron school")
 end
 
 def using_insert (array, element)
