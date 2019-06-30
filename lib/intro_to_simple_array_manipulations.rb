@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def using_concat(array)
-  array.concat (array)
+  array.concat
 end
 
 def using_insert (array, element)
