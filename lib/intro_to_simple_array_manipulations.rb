@@ -2,6 +2,10 @@ def using_push(array, string)
     array.push ( "violet" )
 end
 
+def shift_with_args(array)
+  array.shift(2)
+end
+
 def using_concat(array)
   array.concat
 end
