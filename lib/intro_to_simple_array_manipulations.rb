@@ -2,8 +2,8 @@ def using_push(array, string)
     array.push ( "violet" )
 end
 
-def using_concat(array, array)
-  array.concay (array)
+def using_concat(array)
+  array.concat (array)
 end
 
 def using_insert (array, element)
