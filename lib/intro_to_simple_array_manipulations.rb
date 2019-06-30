@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def pops_with_args(array)
-  array.pop(2)
+  array.pops_with_args(2)
 end
 
 def using_shift(array)
