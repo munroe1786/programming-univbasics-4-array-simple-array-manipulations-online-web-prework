@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def using_concat(array, array)
-  array.concay (more_favs)
+  array.concay (array)
 end
 
 def using_insert (array, element)
