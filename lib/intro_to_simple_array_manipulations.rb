@@ -2,6 +2,10 @@ def using_push(array, string)
     array.push ( "violet" )
 end
 
+def pops_with_args(array)
+  array.pop(2)
+end
+
 def using_shift(array)
   array.shift
 end
