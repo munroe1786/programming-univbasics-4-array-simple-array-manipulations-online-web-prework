@@ -3,5 +3,5 @@ def using_push
 end
   
 def using_uniq
-  haircuts.uniq("Bob")
+  haircuts.uniq
 end
