@@ -8,6 +8,6 @@ def using_uniq(array)
 end
 
 def using_delete_at (array, integer)
-  array.delete_at [2]
+  array.delete_at[2]
 end
   
