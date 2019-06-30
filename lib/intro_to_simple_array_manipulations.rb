@@ -2,6 +2,10 @@ def using_push(array, string)
     array.push ( "violet" )
 end
 
+def using_concat(array, array)
+  
+end
+
 def using_insert (array, element)
   array.insert(4, "Python")
 end
