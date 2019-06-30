@@ -2,6 +2,10 @@ def using_push(array, string)
     array.push ( "violet" )
 end
 
+def using_pop(array)
+  array.pop
+end
+
 def pop_with_args(array)
   array.pop_with_args(2, @dog_breeds)
 end
