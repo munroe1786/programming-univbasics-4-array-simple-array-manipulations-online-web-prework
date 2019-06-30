@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def using_insert (array, element)
-  array.insert[4]
+  array.insert(4, Python)
 end
 
 def using_uniq(array)
