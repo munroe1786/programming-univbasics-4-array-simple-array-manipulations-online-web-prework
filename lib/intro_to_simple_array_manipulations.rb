@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def pop_with_args(array)
-  array.pop_with_args(2)
+  @dogbreeds.pop_with_args(2)
 end
 
 def using_shift(array)
