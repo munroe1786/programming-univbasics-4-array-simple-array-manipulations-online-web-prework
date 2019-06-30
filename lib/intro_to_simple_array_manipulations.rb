@@ -8,7 +8,8 @@ def using_uniq(array)
 end
 
 def using_delete(array, string)
-  array.delete("Steven")
+  array.delete ("Steven")
+end
 
 def using_delete_at (array, integer)
   array.delete_at (2)
